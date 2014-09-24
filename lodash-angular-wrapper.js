@@ -1,5 +1,5 @@
 'use strict';
-angular.module('angularLodashWrapper',[])
+angular.module('lodashAngularWrapper',[])
 .run(function(){
 	if (!window || !window._) {
             throw new Error( "Js library 'Lo-Dash' is not available! You either misspelled " +
