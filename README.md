@@ -8,15 +8,15 @@ Installing
 
 Install via bower
 
-`bower install lodash-angular-wrapper
+`bower install lodash-angular-wrapper`
 
 Require it into your application (after Angular anf Lo-dash)
 
-`<script src="lodash-angular-wrapper.js"></script>
+`<script src="lodash-angular-wrapper.js"></script>`
 
 Add the module as a dependency to your app
 
-`var app = angular.module('yourApp', ['lodashAngularWrapper']);
+`var app = angular.module('yourApp', ['lodashAngularWrapper']);`
 
 Then inject it into your controller
 
